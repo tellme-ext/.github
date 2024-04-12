@@ -2,6 +2,7 @@
 
 Welcome to Tell Me!
 
-![tellmebanner](https://github.com/tellme-ext/.github/assets/73175981/bb0eedb6-490d-4667-901b-d3403a0c86f1)
+![tell-banner](https://github.com/tellme-ext/.github/assets/73175981/b846c870-27e2-4451-9397-8982119fcb35)
+
 
 ## Coming Soon: the best extension that you'll have! 🚀
